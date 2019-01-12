@@ -17,3 +17,6 @@ If you want to use your own maze,put it in 'mazes' folder and type `python3 solv
 If you want to use it in python2 you will have to make the following changes in solve.py:
 
 Line 179 `for i in range(10):` -> `for i in xrange(10):`
+
+## Output:
+![image](https://github.com/nsidn98/Games/blob/master/maze_solver/output/00101.jpg)
